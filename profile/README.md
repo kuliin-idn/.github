@@ -25,8 +25,8 @@ Dengan visi yang ambisius, Kuli.In bertujuan untuk mendukung pencapaian Sustaina
 
 ### Design Kasar Aplikasi (Sedang Dalam Pengembangan)
 
-![Design Kasar Aplikasi](./1.png)
-![Design Kasar Aplikasi](./2.png)
-![Design Kasar Aplikasi](./3.png)
-![Design Kasar Aplikasi](./4.png)
+![Design Kasar Aplikasi](https://raw.githubusercontent.com/kuliin-idn/.github/main/profile/1.png)
+![Design Kasar Aplikasi](https://raw.githubusercontent.com/kuliin-idn/.github/main/profile/2.png)
+![Design Kasar Aplikasi](https://raw.githubusercontent.com/kuliin-idn/.github/main/profile/3.png)
+![Design Kasar Aplikasi](https://raw.githubusercontent.com/kuliin-idn/.github/main/profile/4.png)
 
