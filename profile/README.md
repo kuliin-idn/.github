@@ -22,7 +22,7 @@ Translated with DeepL.com (free version)
  - Ni Gusti Ayu Mutiara Indriyani
 
 > Hacker
- - Mikail Thoriq Kariemshah Banow
+ - Mikail Thoriq Kariemshah Banowo
 
 
 ### Rough App Design (Under Development)
